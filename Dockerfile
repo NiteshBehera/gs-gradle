@@ -1,2 +1,2 @@
 FROM alpine:latest
-COPY README.md /home
+COPY . /home
